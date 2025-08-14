@@ -42,6 +42,6 @@ Hi there! I'm Mahnoor — a software engineer with 4+ years of experience focuse
 ---
 
 ## 📫 Reach Me
-- 📧 Email: [(mailto:mahnoorshafique623@gmail.com)]
+- 📧 [Email](mailto:mahnoorshafique623@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-shafique23/)
 - 💻 [GitHub](https://github.com/MahnoorShafique)
