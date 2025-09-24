@@ -2,7 +2,7 @@
 
 **Backend & DevOps Engineer | Python, Django, AWS, Terraform**
 
-Hi there! I'm Mahnoor — a software engineer with 4 years of experience focused on backend development and infrastructure automation. I enjoy building scalable APIs, automating deployments, and solving real-world engineering problems with clean, maintainable code.
+Hi there! I'm Mahnoor — a software engineer with 4+ years of experience focused on backend development and infrastructure automation. I enjoy building scalable APIs, automating deployments, and solving real-world engineering problems with clean, maintainable code.
 
 
 ------
