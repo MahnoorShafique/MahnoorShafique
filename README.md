@@ -17,7 +17,7 @@ Hi there! I'm Mahnoor — a software engineer with 4+ years of experience focuse
 ### ☁️ Cloud & DevOps
 - **Cloud**: AWS (EC2, ECS, EKS, RDS, S3, Lambda, CloudWatch)
 - **IaC**: Terraform
-- **Containers**: Docker, Kubernetes (Helm)
+- **Containers**: Docker
 - **CI/CD**: GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy
 
 ### 🧪 Testing & Monitoring
